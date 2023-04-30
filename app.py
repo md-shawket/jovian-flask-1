@@ -5,7 +5,6 @@ app = Flask(__name__)
 all_jobs = [{
   'id': 1,
   'post': 'Data Analysis',
-  'salary': 1000,
   'location': 'HQ'
 }, {
   'id': 2,
